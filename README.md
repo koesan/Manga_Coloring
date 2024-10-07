@@ -14,5 +14,3 @@ Bu projede, siyah-beyaz manga resimlerini renkli hale getirmek için iki ayrı G
 İlk projede, Pix2PixHD modeli kullanılarak eşleşmiş siyah-beyaz ve renkli manga resim çiftleri üzerinde çalışılmıştır. Pix2PixHD, yüksek kaliteli görüntü dönüşümleri sağlamak üzere NVIDIA tarafından geliştirilmiş bir GAN modelidir. Bu model, denetimli öğrenme ile eğitilerek gerçekçi ve doğru bir şekilde renklendirilmiş manga resimleri üretmeyi hedeflemektedir.
 
 İkinci projede ise CycleGAN modeli kullanılmıştır. CycleGAN, eşleşmemiş veri çiftleriyle çalışarak iki farklı domain (siyah-beyaz ve renkli manga resimleri) arasında dönüşüm gerçekleştirir. Bu model, denetimsiz öğrenme sayesinde farklı veri setleri ile renk transferi yapmayı mümkün kılar.
-
-bu metni ingilizce türkçe birlikte olsun, ingilizce b1 seviyesinde ingilizce oslun ve noktalama işaretleri hatası olsun
