@@ -5,9 +5,12 @@ In this project, two different GAN architectures were used to color black and wh
 
 In the first project, Pix2PixHD model was used with paired black and white and colored manga images. Pix2PixHD is a GAN model developed by NVIDIA for high quality image transformations. This model is trained with supervised learning to produce realistic and accurate colored manga images.
 
-[Pix2PixHD](https://github.com/NVIDIA/pix2pixHD)
+[Pix2PixHD project page](https://github.com/NVIDIA/pix2pixHD)
 
 In the second project, CycleGAN model was used. CycleGAN works with unpaired data to make transformations between two domains (black and white and colored manga images). This model makes color transfer possible with unsupervised learning and different data sets.
+
+[Pix2PixHD project page](https://github.com/NVIDIA/pix2pixHD)
+
 
 ***
 
