@@ -9,7 +9,7 @@ In the first project, Pix2PixHD model was used with paired black and white and c
 
 In the second project, CycleGAN model was used. CycleGAN works with unpaired data to make transformations between two domains (black and white and colored manga images). This model makes color transfer possible with unsupervised learning and different data sets.
 
-[Pix2PixHD project page](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+[Pytorch VycleGAN And Pix2pix project page](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 
 
 ***
@@ -22,4 +22,4 @@ Bu projede, siyah-beyaz manga resimlerini renkli hale getirmek için iki ayrı G
 
 İkinci projede ise CycleGAN modeli kullanılmıştır. CycleGAN, eşleşmemiş veri çiftleriyle çalışarak iki farklı domain (siyah-beyaz ve renkli manga resimleri) arasında dönüşüm gerçekleştirir. Bu model, denetimsiz öğrenme sayesinde farklı veri setleri ile renk transferi yapmayı mümkün kılar.
 
-[Pix2PixHD proje sayfası](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+[Pytorch VycleGAN And Pix2pix proje sayfası](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
