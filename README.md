@@ -1,4 +1,4 @@
-# GAN Based Architectures for Manga Colorization
+# GAN Based Architectures for Colorization
 
 In this project, three different GAN architectures were used to color black and white manga images: Pix2Pix, Pix2PixHD, and CycleGAN.
 
@@ -16,7 +16,7 @@ In the third project, the CycleGAN model was used. CycleGAN works with unpaired 
 
 ---
 
-# GAN Tabanlı Manga Renklendirme Mimarileri
+# GAN Tabanlı Renklendirme Mimarileri
 
 Bu projede, siyah-beyaz manga resimlerini renkli hale getirmek için üç ayrı GAN türevi mimari kullanılmıştır: Pix2Pix, Pix2PixHD ve CycleGAN.
 
