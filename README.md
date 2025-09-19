@@ -2,10 +2,9 @@
 
 # 🎨 GAN-Based Manga Colorization Project
 
-[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-1.4+-red.svg)](https://pytorch.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
+[![Hugging Face](https://img.shields.io/badge/Dataset-Hugging%20Face-yellow.svg)](https://huggingface.co/datasets/MichaelP84/manga-colorization-dataset)
 [![Colab](https://img.shields.io/badge/Google-Colab-orange.svg)](https://colab.research.google.com/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
 
