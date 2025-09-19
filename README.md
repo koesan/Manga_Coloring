@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🎨 GAN-Based Manga Colorization Project
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)
@@ -10,6 +12,8 @@
 🇬🇧[English](#english) | 🇹🇷[Türkçe](#türkçe)
 
 ---
+
+</div>
 
 ## English
 
