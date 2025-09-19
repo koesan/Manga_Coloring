@@ -72,6 +72,8 @@ The project utilizes the **MichaelP84/manga-colorization-dataset** from Hugging 
 - [NVIDIA Pix2PixHD](https://github.com/NVIDIA/pix2pixHD)
 
 
+---
+
 ## Türkçe
 
 ### 🇹🇷 
